@@ -4,7 +4,7 @@ tags: [ai-agents, claude-code, codex, agentic-workflows, automation]
 source: https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering
 source_type: url
 created: 2026-08-05
-updated: 2026-08-08 18:17
+updated: 2026-08-23 16:03
 ---
 
 # Loop Engineering
@@ -104,8 +104,11 @@ that predate AI:
   infrastructure to build (Rafel Mendiola, startup founder).
 
 ## Related
-- No other pages in this topic yet — this is the first page in
-  `research/ai-agents`.
+- [[claude-code-extensibility]] — extensibility primitives (skills, hooks,
+  plugins) vs. this page's focus on agentic loop patterns.
+- [[opencode-vs-cline-vs-claude-code]] — Claude Code's `/loop`/`/goal`
+  commands discussed here are part of its differentiation vs. other
+  harnesses on that page.
 
 ## Open questions / gaps
 - The source article is paywalled beyond section 4. Not yet captured:

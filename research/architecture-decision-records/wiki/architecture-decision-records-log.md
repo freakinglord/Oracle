@@ -24,3 +24,6 @@ Created adr-tooling.md (Decision Capturing Tools catalog by template) and madr-t
 
 ## [2026-08-18 18:00] query | What is an ADR, and can I add one to an existing project?
 Filed as adr-getting-started.md. Synthesized from: adr-fundamentals.md, adr-templates.md, plus general practice knowledge (flagged as not wiki-sourced) on retrofitting ADRs into an existing project. Cross-linked with adr-fundamentals.md, adr-templates.md, ad-practices.md; updated index.
+
+## [2026-08-23 16:03] lint | whole wiki
+Fixed: adr-fundamentals.md's Open questions/gaps still said ADR Templates and Decision Capturing Tools were "not yet ingested" (stale — both exist and are already linked in this page's Related section). Rewrote to point at the ingested pages instead.

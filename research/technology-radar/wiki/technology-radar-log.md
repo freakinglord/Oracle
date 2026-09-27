@@ -30,3 +30,6 @@ Added Related link on thoughtworks-technology-radar-vol-34.md pointing to the ne
 
 ## [2026-08-08 17:55] lint | apply updated Key Points template (### sub-headers)
 Reformatted thoughtworks-technology-radar-vol-34.md's Key Points into `###` sub-headers (Radar basics, Theme 1-4), per the templates/page.md update allowing thematic sub-headers when points cluster 3+ per theme.
+
+## [2026-08-23 16:03] lint | whole wiki
+Fixed: thoughtworks-technology-radar-vol-34.md's `## Details` section promised "the full 118-blip ring index" but contained no actual index (content gap) — deleted the empty section and adjusted the Overview, Key Points, Open questions/gaps, and technology-radar-index.md summary to state the full ring index isn't reproduced on the page and points to `raw/technology_radar_vol_34.pdf` instead.

@@ -4,7 +4,7 @@ tags: [architecture, documentation, decision-making]
 source: https://adr.github.io/
 source_type: url
 created: 2026-08-18
-updated: 2026-08-18 13:48
+updated: 2026-08-23 16:03
 ---
 
 # ADR Fundamentals
@@ -42,5 +42,7 @@ Core vocabulary, motivation, and provenance of the Architecture Decision Record 
 - [[Decision Capturing Tools|adr-tooling.md]] — tooling implementing these templates.
 
 ## Open questions / gaps
-- The homepage is a landing/motivation page; the actual templates (e.g. Nygard's original format, Y-statements, MADR) and tooling comparisons live on linked sub-pages not yet ingested.
-- Follow-up: ingest the ADR Templates and Decision Capturing Tools pages if a concrete template is needed for practice.
+- The homepage is a landing/motivation page; it doesn't cover a specific
+  template's structure or a tooling recommendation itself — see
+  [[ADR Templates|adr-templates.md]] and [[Decision Capturing Tools|adr-tooling.md]]
+  for that detail (both now ingested).

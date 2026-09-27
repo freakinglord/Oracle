@@ -24,3 +24,9 @@ templates/page.md now allows a Key Points bullet to run a few sentences for a si
 
 ## [2026-08-23 14:30] ingest | Claude Code extensibility: skills vs. plugins vs. hooks (conversation)
 Created claude-code-extensibility.md — distinguishes on-demand skills, event-driven hooks (e.g. SessionStart), and plugins as a bundling mechanism for both plus MCP/agents, using the ponytail plugin as a worked example. First page in this topic on harness extensibility mechanics.
+
+## [2026-08-23 15:16] ingest | OpenCode vs. Cline vs. Claude Code (conversation)
+Created opencode-vs-cline-vs-claude-code.md — compares the three harnesses on vendor lock-in, terminal vs. editor surface, and license. Answered from model knowledge (web_search unavailable this session), flagged as unverified against current docs/repos.
+
+## [2026-08-23 16:03] lint | whole wiki
+Fixed: loop-engineering.md's Related section still said "No other pages in this topic yet" (stale — claude-code-extensibility.md and opencode-vs-cline-vs-claude-code.md were added since). Added reciprocal links to both.

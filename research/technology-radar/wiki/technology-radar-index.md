@@ -2,7 +2,7 @@
 title: Technology Radar
 category: research
 created: 2026-07-31
-updated: 2026-08-08 17:55
+updated: 2026-08-23 16:03
 ---
 
 # Technology Radar
@@ -13,7 +13,7 @@ techniques/platforms/tools/languages-and-frameworks move between rings
 
 ## Pages
 
-- [ThoughtWorks Technology Radar Vol 34 (April 2026)](thoughtworks-technology-radar-vol-34.md) — themes on AI-agent evaluation/safety, and the full 118-item ring index across all 4 quadrants; full PDF archived at `raw/technology_radar_vol_34.pdf`
+- [ThoughtWorks Technology Radar Vol 34 (April 2026)](thoughtworks-technology-radar-vol-34.md) — themes on AI-agent evaluation/safety across all 4 quadrants; full 118-blip ring index not reproduced on the page, archived at `raw/technology_radar_vol_34.pdf`
 
 ## Log
 

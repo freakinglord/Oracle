@@ -4,7 +4,7 @@ tags: [claude-code, skills, plugins, hooks, ponytail]
 source: query
 source_type: query
 created: 2026-08-23
-updated: 2026-08-23 14:30
+updated: 2026-08-23 15:16
 ---
 
 # Claude Code Extensibility — Skills, Plugins, Hooks
@@ -47,9 +47,10 @@ relate to each other, using the `ponytail` plugin as a worked example.
   not synonymous with either primitive.
 
 ## Related
-- None yet — first page in this topic covering harness extensibility
-  mechanics specifically (vs. [[loop-engineering]]'s focus on agentic loop
-  patterns).
+- [[loop-engineering]] — focuses on agentic loop patterns rather than
+  extensibility mechanics.
+- [[opencode-vs-cline-vs-claude-code]] — where this skills/hooks/plugins
+  system fits into Claude Code's differentiation vs. other harnesses.
 
 ## Open questions / gaps
 - Not yet covered: MCP server bundling in plugins, custom agent bundling in
